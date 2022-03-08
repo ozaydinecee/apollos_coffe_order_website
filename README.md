@@ -1,8 +1,9 @@
 
 <h3>Coffee Order Website</h3>
 
-[apollo](https://user-images.githubusercontent.com/77552205/157327034-f43affdd-5db8-4d9a-a66c-32fec6ec039b.jpg)
+Gives information about Apollo's coffee order to customer and customer can list all products:
 
+![image](https://user-images.githubusercontent.com/77552205/157327719-0c8c40d5-374f-407c-aaeb-ae70a48aebfc.png)
 
 Customer can select coffee name , type and quantity :
 
